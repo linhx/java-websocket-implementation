@@ -1,3 +1,8 @@
 /.gradle/
 /build/
 .settings/
+message/build/
+message/message.iml
+message/java-server-chat-message.iml
+message/.project
+message/.classpath
